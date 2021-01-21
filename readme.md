@@ -1,4 +1,4 @@
-# Сайт-портфолио
+# Сайт турагенства "Форест тревел"
 
 [![Скриншот проекта](img/project-forest.jpg)](https://forest-travel-by-valerian.netlify.app/)
 
